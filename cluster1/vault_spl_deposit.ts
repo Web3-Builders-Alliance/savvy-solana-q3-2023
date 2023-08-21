@@ -19,7 +19,6 @@ const connection = new Connection(
 const vaultState = new PublicKey("Ab7HUsrcig6wmHFaDTPvMHkZ2SNji11A7AVkU1mLLbvF");
 
 //spl_mint 
-
 const mint = new PublicKey("ECEpMrpoDoeAMBCw4rAvU8iQ21TDWtnmqCcr6KtJQnag");
 
 
